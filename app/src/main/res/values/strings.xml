@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CustomPop</string>
+    <string name="firstScreenText">This is the 1st Screen</string>
+    <string name="buttonOne">Button</string>
+</resources>
