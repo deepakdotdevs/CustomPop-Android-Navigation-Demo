@@ -12,7 +12,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContentView(R.layout.activity_main)
-        var Button1 = findViewById<Button>(R.id.buttonone)
+        var Button1 = findViewById<Button>(R.id.buttonOne)
         Button1.setOnClickListener { v ->
             val intent = Intent(this, SecondScreen::class.java)
             startActivity(intent)
