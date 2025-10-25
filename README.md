@@ -15,19 +15,18 @@ Welcome to the CustomPop Android application! This project demonstrates a founda
 * **Android SDK:** Core Android libraries and tools.
 * **XML:** For defining UI layouts.
 
-## Screenshots
-
 ## 📸 Project Screenshots
 
 Here are some screenshots of the project to showcase the UI and features:
 
 | Screenshot 1 | Screenshot 2 |
 |--------------|--------------|
-| ![Screenshot 1](path/to/1.jpeg) | ![Screenshot 2](path/to/2.jpeg) |
+| ![Screenshot 1](1.jpeg) | ![Screenshot 2](2.jpeg) |
 
 | Screenshot 3 | Screenshot 4 |
 |--------------|--------------|
-| ![Screenshot 3](path/to/3.jpeg.png) | ![Screenshot 4](path/to/4.jpeg.png) |
+| ![Screenshot 3](3.jpeg.png) | ![Screenshot 4](4.jpeg.png) |
+
 
 
 
