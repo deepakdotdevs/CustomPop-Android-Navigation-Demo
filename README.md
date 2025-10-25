@@ -17,15 +17,14 @@ Welcome to the CustomPop Android application! This project demonstrates a founda
 
 ## 📸 Project Screenshots
 
-Here are some screenshots of the project to showcase the UI and features:
-
 | Screenshot 1 | Screenshot 2 |
 |--------------|--------------|
-| ![Screenshot 1](screenshots/1.jpeg) | ![Screenshot 2](screenshots/2.jpeg) |
+| <img src="screenshots/1.jpeg" alt="Screenshot 1" width="250"/> | <img src="screenshots/2.jpeg" alt="Screenshot 2" width="250"/> |
 
 | Screenshot 3 | Screenshot 4 |
 |--------------|--------------|
 | ![Screenshot 3](screenshots/3.jpeg.png) | ![Screenshot 4](screenshots/4.jpeg.png) |
+
 
 
 
