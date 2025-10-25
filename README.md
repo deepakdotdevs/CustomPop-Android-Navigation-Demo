@@ -24,4 +24,4 @@ Welcome to the CustomPop Android application! This project demonstrates a founda
 To run this project, clone the repository and open it in Android Studio.
 
 ```bash
-git clone [Your Repository URL]
+git clone [https://github.com/deepakdotdevs/CustomPop-Android-Navigation-Demo]
