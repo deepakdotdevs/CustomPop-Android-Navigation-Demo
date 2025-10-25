@@ -17,10 +17,7 @@ class SecondScreen : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         enableEdgeToEdge()
         setContentView(R.layout.activity_second_screen)
-        val Buttonsecond: Button = findViewById(R.id.button)
-        Buttonsecond.setOnClickListener { v ->
-            finish()
-        }
+
         val toast = Toast(this)
 
         val view = TextView(this).apply {
@@ -34,5 +31,10 @@ class SecondScreen : AppCompatActivity() {
         toast.duration = Toast.LENGTH_SHORT
         toast.show()
 
+
+        val Buttonsecond: Button = findViewById(R.id.button)
+        Buttonsecond.setOnClickListener { v ->
+            finish()
+        }
     }
 }

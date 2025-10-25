@@ -60,15 +60,21 @@
 
     <Button
         android:id="@+id/buttonOne"
-        android:layout_width="121dp"
-        android:layout_height="49dp"
-        android:layout_marginTop="500dp"
-        android:text="Button"
-        android:textColor="#FFFFFF"
-        android:textSize="20sp"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/textView" />
+        android:layout_width="237dp"
+        android:layout_height="52dp"
+        android:layout_marginTop="576dp"
+
+    android:background="@drawable/button_stroke_white_bg"
+
+    android:text="Button"
+
+    android:textColor="@android:color/black"
+
+    android:textSize="20sp"
+    app:layout_constraintEnd_toEndOf="parent"
+    app:layout_constraintStart_toStartOf="parent"
+    app:layout_constraintTop_toBottomOf="@+id/textView" />
+
 
     <androidx.cardview.widget.CardView
         android:id="@+id/cardView"
@@ -87,18 +93,16 @@
         <ImageView
             android:id="@+id/imageView5"
             android:layout_width="match_parent"
-            android:layout_height="294dp"
+            android:layout_height="340dp"
             android:scaleType="centerCrop"
-            app:layout_constraintBottom_toBottomOf="parent"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
             app:srcCompat="@drawable/logo2" />
 
         <TextView
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:text="Sample Logo/Image"
+            android:background="@android:color/transparent"
+            android:textColor="@color/black"
             android:layout_gravity="center|bottom"
             android:layout_marginBottom="14dp"/>
 
@@ -109,6 +113,7 @@
         android:layout_height="wrap_content"
         android:text="This is the First Screen"
         android:textSize="20dp"
+        android:textColor="@color/black"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
