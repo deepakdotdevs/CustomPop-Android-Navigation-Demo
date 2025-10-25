@@ -21,11 +21,12 @@ Here are some screenshots of the project to showcase the UI and features:
 
 | Screenshot 1 | Screenshot 2 |
 |--------------|--------------|
-| ![Screenshot 1](1.jpeg) | ![Screenshot 2](2.jpeg) |
+| ![Screenshot 1](screenshots/1.jpeg) | ![Screenshot 2](screenshots/2.jpeg) |
 
 | Screenshot 3 | Screenshot 4 |
 |--------------|--------------|
-| ![Screenshot 3](3.jpeg.png) | ![Screenshot 4](4.jpeg.png) |
+| ![Screenshot 3](screenshots/3.jpeg.png) | ![Screenshot 4](screenshots/4.jpeg.png) |
+
 
 
 
