@@ -15,6 +15,11 @@ Welcome to the CustomPop Android application! This project demonstrates a founda
 * **Android SDK:** Core Android libraries and tools.
 * **XML:** For defining UI layouts.
 
+* ## 📄 Project Report (PDF)
+
+[📘 View Documentation](CustomPop.pdf)
+
+
 ## 📸 Project Screenshots
 
 | Screenshot 1 | Screenshot 2 |
